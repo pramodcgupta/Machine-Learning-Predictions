@@ -30,7 +30,7 @@ y_test_p=simplereg.predict(X_test)
 
 
 # Step 6: Plot the graph
-plt.scatter(X_train,y_train,color='red',cmap='plasma')
+plt.scatter(X_train,y_train,color='red')
 plt.plot(X_train,simplereg.predict(X_train))
 plt.title('Salary vs Experience Graph')
 plt.xlabel('Experience (In Years)')
