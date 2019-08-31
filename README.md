@@ -7,3 +7,4 @@ This Repository is foucsing on ML projects which are mostly using ML Algorithms 
 3. Time Series Forecasting for Monthly Sales data
 4. Polynomial Linear Regression Model
 5. Random Forest Algorithm Prediction
+6. Logistic Regression
