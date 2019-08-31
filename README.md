@@ -1,4 +1,4 @@
-# Machine-Learning-Pridictions
+# Machine-Learning-Predictions
 
 This Repository is foucsing on ML projects which are mostly using ML Algorithms to make pridictions.
 
