@@ -8,3 +8,4 @@ This Repository is foucsing on ML projects which are mostly using ML Algorithms 
 4. Polynomial Linear Regression Model
 5. Random Forest Algorithm Prediction
 6. Logistic Regression
+7. SVM Classifier on Social Network Ads
