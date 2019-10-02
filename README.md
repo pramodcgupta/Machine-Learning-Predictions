@@ -9,4 +9,4 @@ This Repository is foucsing on ML projects which are mostly using ML Algorithms 
 5. Random Forest Algorithm Prediction
 6. Logistic Regression
 7. SVM Classifier on Social Network Ads
-8. California Housing Price Prediction
+8. California Housing Price Prediction 
