@@ -10,3 +10,5 @@ This Repository is foucsing on ML projects which are mostly using ML Algorithms 
 6. Logistic Regression
 7. SVM Classifier on Social Network Ads
 8. California Housing Price Prediction 
+9. Handwritten Digit Classifier
+10. Classified Data Classification using KNN
