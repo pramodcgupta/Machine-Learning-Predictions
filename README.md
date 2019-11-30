@@ -12,3 +12,6 @@ This Repository is foucsing on ML projects which are mostly using ML Algorithms 
 8. California Housing Price Prediction 
 9. Handwritten Digit Classifier
 10. Classified Data Classification using KNN
+11. Random Forest on Social Network Ads
+12. Decision Tree on Social Network Ads
+13. XGBOOST on Social Network Ads
